@@ -29,6 +29,16 @@ pip install -r requirements.txt
 python -m playwright install
 ```
 
+## Web UI (easiest)
+
+Run a local website to paste a JD and download a tailored PDF:
+
+```bash
+pip install -r requirements.txt
+python -m playwright install
+streamlit run webapp.py
+```
+
 ## Configure
 
 Copy `.env.example` to `.env` and fill it.
