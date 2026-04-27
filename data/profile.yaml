@@ -1,0 +1,29 @@
+name: "Manikanta Gadamsetti"
+email: "gadamsettimanikanta699@gmail.com"
+phone: "+91 7989265979"
+location: "India"
+preferred_locations:
+  - "Hyderabad"
+  - "Remote"
+target_roles:
+  - "Cloud Engineer"
+  - "DevOps Engineer"
+  - "AI Analyst"
+
+# Keep this factual; the tailor will only rephrase/reorder.
+core_skills:
+  - "Python"
+  - "Linux"
+  - "Azure"
+  - "OCI"
+  - "DevOps"
+  - "Power BI"
+
+certifications:
+  - "Azure Data Fundamentals (DP-900)"
+  - "Microsoft Security, Compliance, and Identity Fundamentals (SC-900)"
+  - "OCI Multi-Cloud Architect Professional"
+
+experience_highlights:
+  - "AI Analyst: model optimization and dataset engineering"
+  - "Internship: infrastructure uptime, ticket resolution, ERP/SaaS administration"

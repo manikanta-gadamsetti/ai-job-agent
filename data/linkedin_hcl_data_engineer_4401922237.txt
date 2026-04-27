@@ -1,0 +1,17 @@
+Source: LinkedIn job view 4401922237
+Company: HCLTech
+Role: Data Engineer
+Location: Hyderabad, Telangana, India
+
+Responsibilities (from listing)
+- Structure end-to-end processes of data extraction, transformation, and storage to deploy models and analytical solutions in real-time and offline analytic processing.
+- Handle activities such as quality assurance, data migration and integration, and solution deployment to ensure the business gets the best value.
+- Implement, maintain, and further develop ETL processes, data lineage, and observability across large-scale data ingestion from a variety of sources.
+- Design and implement data flows to ensure efficient and reliable data movement (e.g. unit and integration tests).
+- Provide technical support in understanding business problems and designing smart data products.
+- Collaborate within an agile culture, contributing to the team's success.
+
+Keywords / themes
+- ETL, data migration, integration, data lineage, observability, testing
+- Real-time + batch/offline analytics
+- Data products, collaboration, agile

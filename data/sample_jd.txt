@@ -1,0 +1,12 @@
+Cloud Engineer / DevOps Engineer (Entry Level) — Sample JD
+
+Responsibilities
+- Build and maintain CI/CD pipelines (GitHub Actions / Jenkins)
+- Manage cloud infrastructure (Azure/AWS), IaC (Terraform), containers (Docker), orchestration (Kubernetes)
+- Monitoring and alerting with Prometheus/Grafana
+- Troubleshoot incidents and improve uptime
+
+Requirements
+- Linux fundamentals, scripting (Python)
+- Cloud basics (Azure/AWS)
+- Familiarity with Git and ticketing systems

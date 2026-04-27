@@ -1,0 +1,3 @@
+# Put job links here (one per line).
+# Prefer company/ATS links (Greenhouse/Lever/Workday/company careers).
+# Avoid LinkedIn/Naukri automation targets in this MVP.
