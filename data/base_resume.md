@@ -1,7 +1,7 @@
 # Manikanta Gadamsetti
 
 Hyderabad, India | +91-7989265979 | mkmanikanta799@gmail.com  
-LinkedIn | GitHub | Portfolio
+LinkedIn(https://www.linkedin.com/in/manikantagadamsetti/) | GitHub(https://github.com/manikanta-gadamsetti) | Portfolio(https://manikanta-gadamsetti-2c2od8l.gamma.site/)
 
 ## Professional Summary
 
@@ -47,7 +47,7 @@ Entry-level Data Engineer and Full-Stack Developer with hands-on experience in A
 
 ## Projects
 
-### MediBot — AI Medical Diagnosis Chatbot (Jan 2026) | Python, HTML, CSS, JavaScript, CSV (Data Processing)
+### MediBot — AI Medical Diagnosis Chatbot (Jan 2026) | Python, HTML, CSS, JavaScript, CSV (Data Processing) (Link - https://chatbot-cr0g.onrender.com/)
 
 - Developed a full-stack medical chatbot using Python for backend processing and HTML/CSS for UI, enabling symptom-based disease prediction.
 - Processed CSV datasets to perform symptom analysis, intent recognition, and confidence-based predictions.
